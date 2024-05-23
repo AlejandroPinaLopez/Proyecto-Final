@@ -1,5 +1,5 @@
 # Proyecto-Final
-"Codigo de trackeo de un objeto para interpretar su movimiento como el tecleo de alguna tecla, movimiento de raton etc."
+"This C++ code utilizes OpenCV and Windows API to control a game called "Vampire Survivors" using color detection from a webcam feed using the movement as a keyboard action."
 
 
 
