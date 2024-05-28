@@ -1,4 +1,7 @@
 # Proyecto-Final
+
+Teammates: Buen Dia Tapia Julian / Piña Lopez Alejandro
+
 "This C++ code utilizes OpenCV and Windows API to control a game called "Vampire Survivors" using color detection from a webcam feed using the movement as a keyboard action."
 
 
